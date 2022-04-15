@@ -102,19 +102,31 @@ To interact with your deployed smart contract, complete the following steps:
 # Results
 
 ## Set Accounts
-![set-accounts](images/setting_account.png)
+<p align="center" width="75%">
+    <img width="75%" src="https://github.com/StrawhatRA/Joint-Savings/blob/main/Images/setting_account.png"> 
+</p>
 
 ## Deposit 1 Ether as Wei
-![set-accounts](images/1ethdeposit.png)
+<p align="center" width="75%">
+    <img width="75%" src="https://github.com/StrawhatRA/Joint-Savings/blob/main/Images/1ethdeposit.png"> 
+</p>
 
 ## Deposit 10 Ether as Wei
-![set-accounts](images/10ethdeposit.png)
+<p align="center" width="75%">
+    <img width="75%" src="https://github.com/StrawhatRA/Joint-Savings/blob/main/Images/10ethdeposit.png"> 
+</p>
 
 ## Deposit 5 Ether as Wei
-![set-accounts](images/5ethdeposit.png)
+<p align="center" width="75%">
+    <img width="75%" src="https://github.com/StrawhatRA/Joint-Savings/blob/main/Images/5ethdeposit.png"> 
+</p>
 
 ## Withdraw 5 Ether as Wei into account1
-![set-accounts](images/5ethwithdraw.png)
+<p align="center" width="75%">
+    <img width="75%" src="https://github.com/StrawhatRA/Joint-Savings/blob/main/Images/5ethwithdraw.png"> 
+</p>
 
 ## Withdraw 10 Ether as Wei into account2
-![set-accounts](images/10ethwithdraw.png)
+<p align="center" width="75%">
+    <img width="75%" src="https://github.com/StrawhatRA/Joint-Savings/blob/main/Images/10ethwithdraw.png"> 
+</p>
