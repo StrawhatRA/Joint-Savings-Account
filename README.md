@@ -99,13 +99,22 @@ To interact with your deployed smart contract, complete the following steps:
 
 ---
 
-### Submission
+# Results
 
-* Upload the files for this assignment to your GitHub repository.
+## Set Accounts
+![set-accounts](images/setting_account.png)
 
-* Submit the link to your GitHub repo on Bootcamp Spot.
+## Deposit 1 Ether as Wei
+![set-accounts](images/1ethdeposit.png)
 
----
+## Deposit 10 Ether as Wei
+![set-accounts](images/10ethdeposit.png)
 
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+## Deposit 5 Ether as Wei
+![set-accounts](images/5ethdeposit.png)
 
+## Withdraw 5 Ether as Wei into account1
+![set-accounts](images/5ethwithdraw.png)
+
+## Withdraw 10 Ether as Wei into account2
+![set-accounts](images/10ethwithdraw.png)
